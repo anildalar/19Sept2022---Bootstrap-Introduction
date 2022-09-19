@@ -1,0 +1,45 @@
+RWD = Responsive Web Design
+
+All Over world
+
+90%
+
+Bootstrap 5.x
+
+There 3 Rule to use BS5.
+1.  <meta name="viewport" />
+2.  BS CSS (<head>)
+3.  BS JS  (<body>)
+
+CDN = Content Delivery Network (Public URL/Internet links)
+
+
+<link> used for CSS Linking
+		<link />
+
+<script> used for Js linking
+	<script></script>
+
+
+Bootstrap is all about CSS classes
+
+lg = large
+sm = small
+
+Boostrap Works on 12 Colum grid
+
+
+row = horizontal line
+col = Vertical Lines
+
+row = parent
+col = child
+<div class="row">
+		<div class="col"></div>
+</div>
+
+start = left
+center = center
+end = right
+
+
